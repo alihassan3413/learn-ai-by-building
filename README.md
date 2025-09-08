@@ -6,7 +6,7 @@ Instead of only following theory, I’m practicing AI concepts by creating small
 ---
 
 ## 📚 Learning Goals
-- Understand the fundamentals of AI (embeddings, vector databases, etc.)
+- Understand the fundamentals of AI to the Advance System (Complete AI Engineer)
 - Apply AI concepts in real-world use cases
 - Integrate AI features into **Laravel + Vue.js** applications
 - Strengthen problem-solving through building, not just reading
