@@ -110,7 +110,7 @@ factors_corr = {
 most_related_factor = max(factors_corr, key=factors_corr.get)
 print("Most related factor to sales:", most_related_factor, "with correlation:", factors_corr[most_related_factor])
 
-5. Advanced (if you want a challenge 🚀)
+# 5. Advanced (if you want a challenge 🚀)
 
 # Find the top 3 stores with the most consistent sales (lowest standard deviation in Weekly_Sales).
 consistent_stores = data_frame.groupby("Store")["Weekly_Sales"].std().nsmallest(3)
